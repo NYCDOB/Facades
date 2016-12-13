@@ -28,7 +28,7 @@ To protect the public who live and work in New York City in and around its large
 
 #### *49% of the total cycle 7 façade filings were filed as Safe*
 
-<iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings2" frameborder="0"> </iframe>
+<iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings2" frameborder="0" align="left"> </iframe>
 
 
 ### WHERE ARE THE UNSAFE BUILDINGS AROUND NYC?
