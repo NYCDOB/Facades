@@ -10,23 +10,30 @@ image:
 
 ### Origins of Façade Inspection & Safety Program (FISP)
 
-The recent death of a 2-year-old girl hit by a piece of masonry that dislodged from an eighth-story window sill underscored the importance of façade maintenance to public safety.  In 1979, a similar incident that  left a Barnard College student dead and prompted the enactment of New York City Local Law 10 of 1980, the first of a series of groundbreaking façade safety ordinances.
+The recent [death of a 2-year-old girl](https://www1.nyc.gov/site/buildings/about/pr-criminal-charges.page) hit by a piece of masonry that dislodged from an eighth-story window sill highlighted the importance of façade maintenance to public safety. In 1979, a similar incident left a Barnard College student dead and prompted the enactment of New York City Local Law 10 of 1980 - the first of a series of groundbreaking façade safety ordinances.
 
 <br/>In 1997 and 1998 New York City experienced several highly publicized exterior wall failures. In response, New York City Local Law 11 of 1998 was passed by the City Council and signed by the Mayor in March of 1998. The new law, known as Local Law 11 of 1998, further expanded the requirements for inspection and maintenance of the façades of buildings greater than six stories in height.
 
-<br/>Owners of all such buildings must have a Registered Architect or Professional Engineer inspect the entire building envelope, including walls facing the rear or sides of adjacent buildings. At least one complete inspection from ground level to roof level via a scaffold (or other observation platform) is also required. Following specific guidelines provided by the Department of Buildings, the professional must determine the condition of all walls and appurtenances and compare it to the condition reported in prior Local Law 10/11 reports.
+<br/>Owners of all such buildings must have exterior walls and appurtenances inspected every 5 years by a QEWI (Qualified Exterior Wall Inspector) who is a Registered Architect or Professional Engineer. The QEWI must file a technical façade report with the Department classifying the building's condition. 
 
-<br/>In 2010, the program in its 7th Cycle was renamed to FISP (Façade Inspection Safety Program) and staggered filings were introduced. In 2013, the 7th Cycle required supplemental inspections of guardrails, balcony and fire escapes for structural stability and code compliance. 2015 opened the 8th Cycle of FISP and guardrails and handrail elements must be incorporated into the report.
+<br/>In 2010, as the program was beginning Cycle 7, it was renamed to [FISP](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (Façade Inspection Safety Program) and staggered filings were introduced. In 2013, the 7th Cycle required supplemental inspections of guardrails, balcony and fire escapes for structural stability and code compliance. 2015 opened the 8th Cycle of FISP and included additional guardrails and handrail reporting requirements. 
 
-<br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in NYC Construction Codes §28-302.1 and RCNY §103-04.
+<br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
 ### LOCAL LAW 11 CYCLE REPORTS
 
-#### *As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings.  13,126 must comply with FISP.*
+#### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. 13,126 must comply with FISP.
 
-To protect the public who live and work in New York City in and around its large population of buildings from falling pieces of façade. Owners of buildings in New York City greater than six stories are required to file reports every 5 years that list probable causes of deterioration, as well as timetables for repair. Buildings are classified as Safe, Unsafe, or Safe with a Repair and Maintenance Program (SWARMP).
+The technical report filed by the QEWI classifies the building conditions in one of the following ways:
 
-#### *49% of the total cycle 7 façade filings were filed as Safe*
+
+* Safe: No problems and in good condition
+* Safe With a Repair and Maintenance Program (SWARMP)
+* Safe, but requires repair/maintenance
+* Unsafe: Problems/defects threaten public safety
+
+
+> #### *49% of the total cycle 7 façade filings were filed as Safe*
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings2" frameborder="0" align="left"> </iframe>
 
@@ -35,8 +42,11 @@ To protect the public who live and work in New York City in and around its large
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
 
-60% of the buildings that must comply with FISP are in Manhattan. 8% of the citywide FISP filings were filed as "Unsafe".
+> #### *60% of the buildings that must comply with FISP are in Manhattan.* 
 
+> #### *8% of the citywide FISP filings were filed as "Unsafe".*
+
+Owners must immediately install public protection, such as a sidewalk shed, when a façade inspection reveals an unsafe condition. The unsafe condition must be repaired within 90 days from the submission of the report. Owners must request an extension from the Department in accordance with1RCNY §103-04 (b)(5)(iv), if additional time is needed. Once the repairs have been completed, the QEWI must submit an amended report within two weeks of the work.
 
 #### UNSAFE FISP CLASSIFICATIONS BY BOROUGH
 <iframe width="100%" height="300" src="https://nycdob.github.io/NVD3_DOB/examples/pie" frameborder="0"> </iframe>
@@ -47,7 +57,9 @@ To protect the public who live and work in New York City in and around its large
 <iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Violations" frameborder="0"> </iframe>
 
 
-DOB Façade Violations are issued for the following: Failure to File a Façade Technical Report (NRF) AND Failure to File an Amended Façade Technical Report.  
+DOB Façade Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* AND *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
+
+<br/>The top 2 ECB violations issued by DOB are for *Failure to Maintain Buildings Wall(s) or Appurtenances* and *Failure To Take Required Measures To Secure Public Safety - Unsafe Façade*. 
 
 #### RECENT ACTIONS
 
