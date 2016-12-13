@@ -86,5 +86,5 @@ LIDAR uses laser light to scan and map distances for surfaces. DOB is currently 
 DOB is researching a wide range of indicators which could potentially be used to predict façade incidents, accidents, and major defects. Statistical and GIS models are being used to evaluate façade risk associated with factors such as building age, construction materials, and geographic location. DOB is developing specialized GIS tools, which will assist the Facades Unit to assess conditions, analyze hazards, and determine risks from façade inspections. These tools will also aggregate spatial information from across city agencies, to provide deeper insights into the various physical and environmental issues, which affect façade conditions.  
 
 
-<img align="left" src="https://raw.githubusercontent.com/NYCDOB/Facades/gh-pages/images/Facades_Tool.png">
+<br/><img align="left" src="https://raw.githubusercontent.com/NYCDOB/Facades/gh-pages/images/Facades_Tool.png">
 
