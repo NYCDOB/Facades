@@ -77,10 +77,10 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 ### WHAT IS DOB’s PLAN TO FURTHER MONITOR AND ENFORCE FAÇADE LEGISLATION?
 
 #### GEOGRAPHIC INFORMATION SYSTEMS
-DOB is currently using GIS tools that allow users to create interactive queries, analyze spatial information, from maps. Through GIS, DOB inspection staffs can aggregate various datasets, historic maps, and field reports, to develop risk profiles for specific buildings, and identify mitigation strategies. DOB will also be able to publish web-based GIS maps, which can be viewed by other agencies, and the general public.
+DOB is currently using GIS tools that allow users to create interactive queries an analyze spatial information from maps. Through GIS, DOB inspection staff can aggregate various datasets, historic maps, and field reports, to develop risk profiles for specific buildings and identify mitigation strategies. DOB will also be able to publish web-based GIS maps, which can be viewed by other agencies, and the general public.
 
 #### LIGHT DETECTION AND RANGING (LIDAR)
 LIDAR uses laser light to scan and map distances for surfaces. DOB is currently experimenting with truck mounted mobile light detection and ranging (LIDAR) systems, which can scan façade surfaces with a high degree of accuracy. The data collected from these scans can be used to assess hazardous conditions, and to compare against previous inspection. 
 
 #### RISK ASSESSMENT
-(Add Text)
+DOB is researching a wide range of indicators which could potentially be used to predict façade incidents, accidents, and major defects. Statistical and GIS models are being used to evaluate façade risk associated with factors such as building age, construction materials, and geographic location. DOB is developing specialized GIS tools, which will assist the Facades Unit to assess conditions, analyze hazards, and determine risks from façade inspections. These tools will also aggregate spatial information from across city agencies, to provide deeper insights into the various physical and environmental issues, which affect façade conditions.  
