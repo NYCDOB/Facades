@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-### WHAT IS THE *FAÇADE INSPECTION AND SAFETY PROGRAM* (FISP)?
+### WHAT IS THE FAÇADE INSPECTION AND SAFETY PROGRAM (FISP)?
 
 The recent [death of a 2-year-old girl](https://www1.nyc.gov/site/buildings/about/pr-criminal-charges.page) hit by a piece of masonry that dislodged from an eighth-story window sill highlighted the importance of façade maintenance to public safety. In 1979, a similar incident left a Barnard College student dead and prompted the enactment of New York City Local Law 10 of 1980 - the first of a series of groundbreaking façade safety ordinances.
 
