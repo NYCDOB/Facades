@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-### Origins of Façade Inspection & Safety Program (FISP)
+### WHAT IS THE *FAÇADE INSPECTION AND SAFETY PROGRAM* (FISP)?
 
 The recent [death of a 2-year-old girl](https://www1.nyc.gov/site/buildings/about/pr-criminal-charges.page) hit by a piece of masonry that dislodged from an eighth-story window sill highlighted the importance of façade maintenance to public safety. In 1979, a similar incident left a Barnard College student dead and prompted the enactment of New York City Local Law 10 of 1980 - the first of a series of groundbreaking façade safety ordinances.
 
@@ -20,7 +20,7 @@ The recent [death of a 2-year-old girl](https://www1.nyc.gov/site/buildings/abou
 
 <br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
-### LOCAL LAW 11 CYCLE REPORTS
+### WHAT IS REQUIRED UNDER LOCAL LAW 11 CYCLE REPORTS?
 
 #### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. 13,126 must comply with FISP.
 
@@ -75,7 +75,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 
 #### DOB NOW: SAFETY
 
-*New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: Safety** to:
+*New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: SAFETY** to:
 
 
 * Submit façade compliance filings and report unsafe façade activity
