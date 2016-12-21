@@ -49,7 +49,7 @@ The technical report filed by the QEWI classifies the building conditions in one
 Owners must immediately install public protection, such as a sidewalk shed, when a façade inspection reveals an unsafe condition. The unsafe condition must be repaired within 90 days from the submission of the report. Owners must request an extension from the Department in accordance with1RCNY §103-04 (b)(5)(iv), if additional time is needed. Once the repairs have been completed, the QEWI must submit an amended report within two weeks of the work.
 
 #### FISP CLASSIFICATIONS BY BOROUGH
-<iframe width="100%" height="525" seamless="seamless" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
+<iframe width="100%" height="525" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
 
 
 ### WHICH SECTIONS OF THE CITY RECEIVE THE MOST FAÇADE VIOLATIONS?
