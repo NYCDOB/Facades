@@ -10,7 +10,7 @@ image:
 
 ### WHAT IS THE FAÇADE INSPECTION AND SAFETY PROGRAM (FISP)?
 
-The recent [death of a 2-year-old girl](https://www1.nyc.gov/site/buildings/about/pr-criminal-charges.page) hit by a piece of masonry that dislodged from an eighth-story window sill highlighted the importance of façade maintenance to public safety. In 1979, a similar incident left a Barnard College student dead and prompted the enactment of New York City Local Law 10 of 1980 - the first of a series of groundbreaking façade safety ordinances.
+New York City Local Law 10 of 1980, the first of a series of groundbreaking façade safety ordinances, was enacted to amend the section in New York City’s Administrative Code governing the repair and maintenance of exterior facades.
 
 <br/>In 1997 and 1998 New York City experienced several highly publicized exterior wall failures. In response, New York City Local Law 11 of 1998 was passed by the City Council and signed by the Mayor in March of 1998. The new law, known as Local Law 11 of 1998, further expanded the requirements for inspection and maintenance of the façades of buildings greater than six stories in height.
 
