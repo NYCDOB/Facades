@@ -22,7 +22,7 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 
 ### WHAT IS REQUIRED UNDER LOCAL LAW 11 CYCLE REPORTS?
 
-#### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. 13,126 must comply with FISP.
+#### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. Approximately 14,000 must comply with FISP.
 
 The technical report filed by the QEWI classifies a building's façade conditions in one of the following ways:
 
@@ -68,7 +68,7 @@ DOB Façade Violations are issued for the following: *Failure to File a Façade 
 
 <br/>The top 2 ECB violations issued by DOB are for *Failure to Maintain Buildings Wall(s) or Appurtenances* and *Failure To Take Required Measures To Secure Public Safety - Unsafe Façade*. 
 
-<br/>Since 60% of the buildings that must comply with FISP are in Manhattan, similar geographic trends are seen with façade violations issued throughout the city.
+<br/>The same trend in compliance filings is seen with respect to façade violations. The majority of violations are issued in Manhattan. 
 
 #### Facade Violations by Borough - 2010 to 2016
 
