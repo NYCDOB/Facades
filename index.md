@@ -24,18 +24,31 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 
 #### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. 13,126 must comply with FISP.
 
-The technical report filed by the QEWI classifies the building conditions in one of the following ways:
+The technical report filed by the QEWI classifies a building's façade conditions in one of the following ways:
 
 
-* Safe: No problems and in good condition
-* Safe With a Repair and Maintenance Program (SWARMP)
-* Safe, but requires repair/maintenance
-* Unsafe: Problems/defects threaten public safety
+* Safe: No problems and in good condition (OK)
+* Safe With a Repair and Maintenance Program (SW)
+* No Report Filed (NR)
+* Unsafe: Problems/defects threaten public safety (UN)
 
 
-> #### *49% of the total cycle 7 façade filings were filed as Safe*
+> #### *49% of the total Cycle 7 façade filings were filed as "Safe"*
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings2" frameborder="0" align="left"> </iframe>
+
+
+| Status | 4 | 5 | 6 | 7A | 7B | 7C |
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+| OK | 24% | 47% | 54% | 50% | 50% | 47% |
+| SW | 4% | 52% | 43% | 39% | 38% | 38% |
+| NR | 1% | 0% | 1% | 4% | 4% | 6% |
+| UN | 0% | 1% | 2% | 7% | 8% | 9% |
+| OM | 26% |  |  |  |  |  |
+| PR | 45% |  |  |  |  |  |
+
+
+> #### *8% of the citywide Cycle 7 FISP filings were classified as "Unsafe"*
 
 
 ### WHERE ARE THE UNSAFE BUILDINGS AROUND NYC?
@@ -44,22 +57,28 @@ The technical report filed by the QEWI classifies the building conditions in one
 
 > #### *60% of the buildings that must comply with FISP are in Manhattan* 
 
-> #### *8% of the citywide FISP filings were filed as "Unsafe"*
 
+#### CYCLE 7 FISP CLASSIFICATIONS BY BOROUGH
+<iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
 Owners must immediately install public protection, such as a sidewalk shed, when a façade inspection reveals an unsafe condition. The unsafe condition must be repaired within 90 days from the submission of the report. Owners must request an extension from the Department in accordance with1RCNY §103-04 (b)(5)(iv), if additional time is needed. Once the repairs have been completed, the QEWI must submit an amended report within two weeks of the work.
 
-#### FISP CLASSIFICATIONS BY BOROUGH
-<iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
-
-
-### WHICH SECTIONS OF THE CITY RECEIVE THE MOST FAÇADE VIOLATIONS?
-
-<iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Violations" frameborder="0"> </iframe>
-
+#### FAÇADE VIOLATIONS
 
 DOB Façade Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* AND *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
 
 <br/>The top 2 ECB violations issued by DOB are for *Failure to Maintain Buildings Wall(s) or Appurtenances* and *Failure To Take Required Measures To Secure Public Safety - Unsafe Façade*. 
+
+<br/>Since 60% of the buildings that must comply with FISP are in Manhattan, similar geographic trends are seen with façade violations issued throughout the city.
+
+#### Facade Violations by Borough - 2010 to 2016
+
+|    Borough    | # Violations | % Violations |
+|:-------------:|:------------:|:------------:|
+|   Manhattan   |     2812     |     51.3%    |
+|     Bronx     |     1119     |     20.4%    |
+|    Brooklyn   |      836     |     15.2%    |
+|     Queens    |      683     |     12.5%    |
+| Staten Island |      26      |     0.5%     |
 
 #### RECENT ACTIONS
 
