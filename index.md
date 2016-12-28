@@ -33,7 +33,7 @@ The technical report filed by the QEWI classifies a building's façade condition
 * Unsafe: Problems/defects threaten public safety (UN)
 
 
-> #### *49% of the total Cycle 7 façade filings were filed as "Safe"*
+> #### *49% of the total Cycle 7 façade filings were classified as "Safe"*
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings2" frameborder="0" align="left"> </iframe>
 
@@ -48,7 +48,7 @@ The technical report filed by the QEWI classifies a building's façade condition
 | PR | 45% |  |  |  |  |  |
 
 
-> #### *8% of the citywide Cycle 7 FISP filings were classified as "Unsafe"*
+> #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
 
 
 ### WHERE ARE THE UNSAFE BUILDINGS AROUND NYC?
