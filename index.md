@@ -20,7 +20,7 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 
 <br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
-### WHAT IS REQUIRED UNDER LOCAL LAW 11 CYCLE REPORTS?
+### WHAT IS REQUIRED UNDER LOCAL LAW 11?
 
 #### As a built, densely populated urban environment, NYC includes approximately 1 million aging buildings. Approximately 14,000 must comply with FISP.
 
@@ -51,7 +51,7 @@ The technical report filed by the QEWI classifies a building's façade condition
 > #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
 
 
-### WHERE ARE THE UNSAFE BUILDINGS AROUND NYC?
+### WHERE ARE THE UNSAFE BUILDING FAÇADES IN NYC?
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
 
@@ -80,7 +80,7 @@ DOB Façade Violations are issued for the following: *Failure to File a Façade 
 |     Queens    |      683     |     12.5%    |
 | Staten Island |      26      |     0.5%     |
 
-#### RECENT ACTIONS
+### WHAT RECENT ENFORCEMENT ACTIONS HAVE BEEN IMPLEMENTED?
 
 Following the May 2015 façade failure, DOB implemented changes to its own procedures to increase façade enforcement. Among other changes, DOB:
 
@@ -90,7 +90,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 * Mandated that any building that files a report indicating there are dangerous conditions will be given 180 days to correct these conditions. Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place safety sheds at the location at the landlord’s expense.
 
 
-### WHAT TECHNOLOGY ENHANCEMENTS HAS DOB IMPLEMENTED TO AID CUSTOMERS IN SUBMITTING FAÇADE COMPLIANCE FILINGS?
+### HOW IS DOB HELPING CUSTOMERS MEET THEIR FAÇADE COMPLIANCE FILING REQUIREMENTS?
 
 #### DOB NOW: SAFETY
 
@@ -105,7 +105,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 * Receive emails at milestones throughout the filing process
 
 
-### WHAT IS DOB’s PLAN TO FURTHER MONITOR AND ENFORCE FAÇADE LEGISLATION?
+### HOW WILL DOB IMPROVE FAÇADE SAFETY MONITORING?
 
 #### GEOGRAPHIC INFORMATION SYSTEMS
 DOB is currently using GIS tools that allow users to create interactive queries and analyze spatial information from maps. Using GIS, DOB inspection staff can aggregate various datasets, historic maps, and field reports. The results can be used to develop risk profiles for specific buildings and identify mitigation strategies. DOB will also be able to publish web-based GIS maps which can be viewed by other agencies and the general public.
