@@ -27,7 +27,7 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 | B | 0, 7, or 8 	| 2/21/16 - 2/21/18 |
 | C | 1, 2, or 3 	| 2/21/17 - 2/21/19	|
 
-<br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
+The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
 ### WHAT IS REQUIRED UNDER LOCAL LAW 11?
 
@@ -61,7 +61,7 @@ The technical report filed by the QEWI classifies a building's façade condition
 
 > #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
 
-
+<br/>
 ### WHAT IS THE FILING STATUS OF BUILDING FAÇADES AROUND NYC?
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
@@ -91,6 +91,7 @@ DOB Façade Violations are issued for the following: *Failure to File a Façade 
 |     Queens    |      683     |     12.5%    |
 | Staten Island |      26      |     0.5%     |
 
+<br/>
 ### WHAT RECENT ENFORCEMENT ACTIONS HAVE BEEN IMPLEMENTED?
 
 Following the May 2015 façade failure, DOB implemented changes to its own procedures to increase façade enforcement. Among other changes, DOB:
@@ -100,7 +101,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 * Required that any building that fails to timely file an inspection report will have 180 days to submit the report -- if the landlord fails to do so, the City will conduct an inspection and, if needed, place safety sheds at the location at the landlord’s expense; and
 * Mandated that any building that files a report indicating there are dangerous conditions will be given 180 days to correct these conditions. Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place safety sheds at the location at the landlord’s expense.
 
-
+<br/>
 ### HOW IS DOB HELPING CUSTOMERS MEET THEIR FAÇADE COMPLIANCE FILING REQUIREMENTS?
 
 #### DOB NOW: SAFETY
@@ -115,7 +116,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 * View the status of a façade filing
 * Receive emails at milestones throughout the filing process
 
-
+<br/>
 ### HOW WILL DOB IMPROVE FAÇADE SAFETY MONITORING?
 
 #### GEOGRAPHIC INFORMATION SYSTEMS
