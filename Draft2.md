@@ -18,6 +18,14 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 
 <br/>In 2010, as the program was beginning Cycle 7, it was renamed to [FISP](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (Façade Inspection Safety Program) and staggered filings were introduced. In 2013, the 7th Cycle required supplemental inspections of guardrails, balcony and fire escapes for structural stability and code compliance. 2015 opened the 8th Cycle of FISP and included additional guardrails and handrail reporting requirements. 
 
+<br/>The filing requirements for the 7th cycle of NYC’s FISP changed considerably since the culmination of the 6th cycle in 2007.  Sub-cycles were added at the beginning of Cycle 7 as a result of [Local Law 38 of 2007](https://www1.nyc.gov/assets/buildings/local_laws/ll38of2007.pdf) which required the implementation of staggered inspection cycles to make it easier for owners to hire qualified professionals and contractors. Cycle 8 began February 21, 2015, and runs through February 21, 2020. The last digit of a building’s block number determines if the property falls into sub-cycle A, B, or C. 
+
+| Cycle 8 Sub-Cycle 	| Last Digit of Block Number 	| Filing Period 	|
+|:-----------------:	|:--------------------------:	|:-----------------:	|
+| A 	| 4, 5, 6, or 9 	| 2/21/15 - 2/21/17 	|
+| B 	| 0, 7, or 8 	| 2/21/16 - 2/21/18 	|
+| C 	| 1, 2, or 3 	| 2/21/17 - 2/21/19 	|
+
 <br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
 ### WHAT IS REQUIRED UNDER LOCAL LAW 11?
@@ -31,6 +39,8 @@ The technical report filed by the QEWI classifies a building's façade condition
 * Safe With a Repair and Maintenance Program (SW)
 * No Report Filed (NR)
 * Unsafe: Problems/defects threaten public safety (UN)
+* Ongoing Maintenance (OM) *Formerly used status*
+* Precautionary (PR) *Formerly used status*
 
 
 > #### *49% of the total Cycle 7 façade filings were classified as "Safe"*
@@ -51,7 +61,7 @@ The technical report filed by the QEWI classifies a building's façade condition
 > #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
 
 
-### WHERE ARE THE UNSAFE BUILDING FAÇADES IN NYC?
+### WHAT IS THE FILING STATUS OF BUILDING FAÇADES AROUND NYC?
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
 
@@ -64,7 +74,7 @@ Owners must immediately install public protection, such as a sidewalk shed, when
 
 #### FAÇADE VIOLATIONS
 
-DOB Façade Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* AND *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
+DOB Façade Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* and *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
 
 <br/>The top 2 ECB violations issued by DOB are for *Failure to Maintain Buildings Wall(s) or Appurtenances* and *Failure To Take Required Measures To Secure Public Safety - Unsafe Façade*. 
 
@@ -94,7 +104,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 
 #### DOB NOW: SAFETY
 
-*New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: SAFETY** to:
+*New Electronic Filing Requirement for NYC Façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: SAFETY** to:
 
 
 * Submit façade compliance filings and report unsafe façade activity
@@ -109,13 +119,6 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 
 #### GEOGRAPHIC INFORMATION SYSTEMS
 DOB is currently using GIS tools that allow users to create interactive queries and analyze spatial information from maps. Using GIS, DOB inspection staff can aggregate various datasets, historic maps, and field reports. The results can be used to develop risk profiles for specific buildings and identify mitigation strategies. DOB will also be able to publish web-based GIS maps which can be viewed by other agencies and the general public.
-
-#### LIGHT DETECTION AND RANGING (LIDAR)
-LIDAR uses laser light to scan and map distances for surfaces. DOB is currently experimenting with truck mounted mobile light detection and ranging (LIDAR) systems, which can scan façade surfaces with a high degree of accuracy. The data collected from these scans can be used to assess hazardous conditions, and to compare against previous inspection. 
-
-#### RISK ASSESSMENT
-DOB is researching a wide range of indicators which could potentially be used to predict façade incidents, accidents, and major defects. Statistical and GIS models are being used to evaluate façade risk associated with factors such as building age, construction materials, and geographic location. DOB is developing specialized GIS tools to assist the Facades Unit with assessing conditions, analyzing hazards, and determining risks associated with façades. These tools will also aggregate spatial information from across city agencies, in order to provide deeper insights into the various physical and environmental issues which affect façade conditions.  
-
 
 <br/><img align="left" src="https://raw.githubusercontent.com/NYCDOB/Facades/gh-pages/images/Facades_Tool.png">
 
