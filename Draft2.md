@@ -21,12 +21,11 @@ New York City Local Law 10 of 1980, the first of a series of groundbreaking faç
 <br/>The filing requirements for the 7th cycle of NYC’s FISP changed considerably since the culmination of the 6th cycle in 2007.  Sub-cycles were added at the beginning of Cycle 7 as a result of [Local Law 38 of 2007](https://www1.nyc.gov/assets/buildings/local_laws/ll38of2007.pdf) which required the implementation of staggered inspection cycles to make it easier for owners to hire qualified professionals and contractors. Cycle 8 began February 21, 2015, and runs through February 21, 2020. The last digit of a building’s block number determines if the property falls into sub-cycle A, B, or C. 
 
 
-| Cycle 8 Sub-Cycle 	| Last Digit of Block Number 	| Filing Period 	|
-|:-----------------:	|:--------------------------:	|:-----------------:	|
-| A 	| 4, 5, 6, or 9 	| 2/21/15 - 2/21/17 	|
-| B 	| 0, 7, or 8 	| 2/21/16 - 2/21/18 	|
-| C 	| 1, 2, or 3 	| 2/21/17 - 2/21/19 	|
-
+| Cycle 8 Sub-Cycle | Last Digit of Block Number | Filing Period |
+|:-----------------:|:--------------------------:|:-----------------:|
+| A | 4, 5, 6, or 9 | 2/21/15 - 2/21/17 |
+| B | 0, 7, or 8 	| 2/21/16 - 2/21/18 |
+| C | 1, 2, or 3 	| 2/21/17 - 2/21/19	|
 
 <br/>The detailed inspection and reporting requirements, as well as additional law updates, are contained in [NYC Construction Codes §28-302.1](https://www1.nyc.gov/assets/buildings/building_code/2008_cc_ac_combined.pdf) and [RCNY §103-04](https://www1.nyc.gov/assets/buildings/rules/1_RCNY_103-04.pdf).
 
