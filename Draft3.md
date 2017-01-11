@@ -7,9 +7,6 @@ image:
   credit: 
   creditlink: 
 ---
-
-### Facade Safety Report
-
 In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11 which requires inspections of building façades, balconies, and terraces which meet specific criteria.
 
 <br/>Due to the almost 14,000 buildings that must comply with the Façade Inspection Safety Program, the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, spanning from 2010 to 2014.  DOB is currently on Cycle 8 which began in 2015.
@@ -24,7 +21,7 @@ In order to ensure the safety and structural stability of New York City building
 * Precautionary (PR) *Formerly used status*
 
 
-Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of unsafe filings has increased from Cycle 6 to Cycle 7 by 250% from 123 to 624. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress, therefore there is a large percentage of "No Report Filed" classifications. 
+Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of "Unsafe" filings has increased from Cycle 6 to Cycle 7 by 250% from 123 to 624. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress, therefore there is a large percentage of "No Report Filed" classifications. 
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
@@ -39,14 +36,11 @@ Approximately 87% of the Cycle 7 façade filings were classified as either “Sa
 |   PR   | 45% |     |     |     |     |
 
 
-> #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
-
-
-### WHERE ARE THE UNSAFE BUILDING FAÇADES IN NYC?
+### WHERE ARE THE SAFE AND UNSAFE BUILDING FAÇADES IN NYC?
 
 > #### *60% of the buildings that must comply with FISP are in Manhattan* 
 
-The following map provides the location and information on the filing status of each eligible façade during Cycle 7.
+The following map provides the location and other information on the filing status of each eligible façade during Cycle 7.
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
 
@@ -87,7 +81,7 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 
 #### DOB NOW: SAFETY
 
-*New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: SAFETY** to:
+*New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: Safety** to:
 
 
 * Submit façade compliance filings and report unsafe façade activity
