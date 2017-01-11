@@ -29,14 +29,14 @@ Approximately 87% of the Cycle 7 façade filings were classified as either “Sa
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
 
-| Status 	|  4  	|  5  	|  6  	|  7  	|  8  	|
-|:------:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-|   OK   	| 24% 	| 47% 	| 54% 	| 49% 	|  7% 	|
-|   SW   	|  4% 	| 52% 	| 43% 	| 38% 	|  4% 	|
-|   NR   	|  1% 	|  0% 	|  1% 	|  5% 	| 86% 	|
-|   UN   	|  0% 	|  1% 	|  2% 	|  8% 	|  3% 	|
-|   OM   	| 26% 	|     	|     	|     	|     	|
-|   PR   	| 45% 	|     	|     	|     	|     	|
+| Status |  4  |  5  |  6  |  7  |  8  |
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|   OK   | 24% | 47% | 54% | 49% |  7% |
+|   SW   |  4% | 52% | 43% | 38% |  4% |
+|   NR   |  1% |  0% |  1% |  5% | 86% |
+|   UN   |  0% |  1% |  2% |  8% |  3% |
+|   OM   | 26% |     |     |     |     |
+|   PR   | 45% |     |     |     |     |
 
 
 > #### *8% of the total Cycle 7 façade filings were classified as "Unsafe"*
