@@ -9,7 +9,7 @@ image:
 ---
 In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11 which requires inspections of building façades, balconies, and terraces which meet specific criteria.
 
-<br/>Due to the almost 14,000 buildings that must comply with the Façade Inspection Safety Program, the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, spanning from 2010 to 2014.  DOB is currently on Cycle 8 which began in 2015.
+<br/>Due to the almost 14,000 buildings that must comply with the Façade Inspection Safety Program (FISP), the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, spanning from 2010 to 2014.  DOB is currently on Cycle 8 which began in 2015.
 
 <br/>During the inspection process, a Qualified Exterior Wall Inspector (QEWI) classifies a building’s façade conditions in one of the following ways:
 
@@ -20,6 +20,7 @@ In order to ensure the safety and structural stability of New York City building
 * Ongoing Maintenance (OM) *Formerly used status*
 * Precautionary (PR) *Formerly used status*
 
+#### FAÇADE INSPECTION RESULTS
 
 Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of "Unsafe" filings has increased from Cycle 6 to Cycle 7 by 250% from 123 to 624. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress, therefore there is a large percentage of "No Report Filed" classifications. 
 
