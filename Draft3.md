@@ -36,7 +36,7 @@ Approximately 87% of the Cycle 7 façade filings were classified as either “Sa
 |   PR   | 45% |     |     |     |     |
 
 
-### WHERE ARE THE SAFE AND UNSAFE BUILDING FAÇADES IN NYC?
+### WHERE ARE THE SAFE AND UNSAFE FAÇADES IN NYC?
 
 > #### *60% of the buildings that must comply with FISP are in Manhattan* 
 
