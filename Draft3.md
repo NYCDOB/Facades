@@ -22,7 +22,7 @@ In order to ensure the safety and structural stability of New York City building
 
 #### FAÇADE INSPECTION RESULTS
 
-Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of "Unsafe" filings increased by 250% from Cycle 6 to Cycle 7. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress, therefore there is a large percentage of "No Report Filed" classifications. 
+Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of "Unsafe" filings increased by 250% from Cycle 6 to Cycle 7. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress through February 2019, therefore there is a large percentage of "No Report Filed" classifications. 
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
