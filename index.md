@@ -52,7 +52,7 @@ The following map provides the location and other information on the filing stat
 
 
 #### CYCLE 7 FISP CLASSIFICATIONS BY BOROUGH
-<iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0" onload="this.style.height=this.contentDocument.body.scrollHeight + 'px';"></iframe>
+<iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0" onload="this.style.height=this.contentDocument.body.scrollHeight + 'px';" scrolling="no"></iframe>
 
 
 #### FAÇADE VIOLATIONS
