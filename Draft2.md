@@ -69,8 +69,8 @@ The technical report filed by the QEWI classifies a building's façade condition
 > #### *60% of the buildings that must comply with FISP are in Manhattan* 
 
 
-#### CYCLE 7 FISP CLASSIFICATIONS BY BOROUGH
-<iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
+#### CYCLE 7 FISP CLASSIFICATIONS BY Community Board
+<iframe width="100%" height="500" src="https://nycdob.github.io/Facades_Map_CMBD/" frameborder="0"> </iframe>
 Owners must immediately install public protection, such as a sidewalk shed, when a façade inspection reveals an unsafe condition. The unsafe condition must be repaired within 90 days from the submission of the report. Owners must request an extension from the Department in accordance with1RCNY §103-04 (b)(5)(iv), if additional time is needed. Once the repairs have been completed, the QEWI must submit an amended report within two weeks of the work.
 
 #### FAÇADE VIOLATIONS
