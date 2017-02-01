@@ -7,22 +7,27 @@ image:
   credit: 
   creditlink: 
 ---
-In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11 which requires inspections of building façades, balconies, and terraces which meet specific criteria.
+In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11/98 which requires inspections of building exterior walls and appurtenances of buildings which are greater than six stories in height. General information on façades as well as detailed instructions on façade compliance filings are available on the DOB Façades [website](https://www1.nyc.gov/site/buildings/safety/facades.page). 
 
-<br/>Due to the almost 14,000 buildings that must comply with the [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP), the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, spanning from 2010 to 2014.  DOB is currently on Cycle 8 which began in 2015.
+<br/>To facilitate the owners of the more than 14,000 buildings who must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report, the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, ending in 2014.  DOB is currently in Cycle 8 which began in 2015.
 
-<br/>During the inspection process, a Qualified Exterior Wall Inspector (QEWI) classifies a building’s façade conditions in one of the following ways:
+<br/>Inspections are conducted by private qualified registered design professionals who are not DOB employees. The Qualified Exterior Wall Inspector (QEWI) inspects the properties and assigns the following categories
 
 * Safe: No problems and in good condition (OK)
-* Safe With a Repair and Maintenance Program (SW)
-* No Report Filed (NR)
+* Safe With a Repair and Maintenance Program (SWARP)
 * Unsafe: Problems/defects threaten public safety (UN)
-* Ongoing Maintenance (OM) *Formerly used status*
-* Precautionary (PR) *Formerly used status*
+
+The following categories of inspection were discontinued in Cycle 4 and are no longer used:
+
+* Ongoing Maintenance (OM)
+* Precautionary (PR)
+
+DOB categorizes a property as No Report Filed (NR) if no report was submitted. 
+
 
 #### FAÇADE INSPECTION RESULTS
 
-Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” or “Safe with a Repair and Maintenance Program”.  The number of "Unsafe" filings increased by 250% from Cycle 6 to Cycle 7. Cycle 4 compliance filings are not easily compared to subsequent cycles since the status type included “Precautionary” and “Ongoing Maintenance” which were discontinued classifications. Cycle 8 is currently in progress through February 2019, therefore there is a large percentage of "No Report Filed" classifications. 
+Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” (OK) or “Safe with a Repair and Maintenance Program” (SWARP). Cycle 7 had a 5% increase in the number of total records compared to Cycle 6. Unsafe filings are carefully monitored by DOB. Cycle 8 is currently in progress, therefore there is a large percentage of “No Report Filed” classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
@@ -30,7 +35,7 @@ Approximately 87% of the Cycle 7 façade filings were classified as either “Sa
 | Status |  4  |  5  |  6  |  7  |  8  |
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |   OK   | 24% | 47% | 54% | 49% |  7% |
-|   SW   |  4% | 52% | 43% | 38% |  4% |
+|   SWARP   |  4% | 52% | 43% | 38% |  4% |
 |   NR   |  1% |  0% |  1% |  5% | 86% |
 |   UN   |  0% |  1% |  2% |  8% |  3% |
 |   OM   | 26% |     |     |     |     |
@@ -39,7 +44,7 @@ Approximately 87% of the Cycle 7 façade filings were classified as either “Sa
 
 ### WHERE ARE THE SAFE AND UNSAFE FAÇADES IN NYC?
 
-> #### *60% of the buildings that must comply with FISP are in Manhattan* 
+> #### *The 60% of buildings greater than six stories in height are located in Manhattan and therefore most of the façade filings are in Manhattan* 
 
 The following map provides the location and other information on the filing status of each eligible façade during Cycle 7.
 
@@ -57,11 +62,11 @@ Multiple seven-story buildings within the Amsterdam Houses on Amsterdam Avenue b
 
 #### FAÇADE VIOLATIONS
 
-DOB Façade Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* and *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
+DOB FISP Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* and *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
 
-<br/>The top 2 ECB violations issued by DOB are for *Failure to Maintain Buildings Wall(s) or Appurtenances* and *Failure To Take Required Measures To Secure Public Safety - Unsafe Façade*. 
+<br/>The majority of ECB/OATH Violations issued by the DOB Façade Unit are for *Failure to Maintain Buildings Walls* and *Failure To Protect the Public*. 
 
-<br/>The same trend in compliance filings is seen with respect to façade violations. The majority of violations are issued in Manhattan. 
+<br/>The density of buildings greater than six stories in height is also reflected in ECB violation issuance by DOB Façade Unit. 
 
 #### Facade Violations by Borough - 2010 to 2016
 
@@ -75,12 +80,13 @@ DOB Façade Violations are issued for the following: *Failure to File a Façade 
 
 ### WHAT RECENT ENFORCEMENT ACTIONS HAVE BEEN IMPLEMENTED?
 
-Following the May 2015 façade failure, DOB implemented changes to its own procedures to increase façade enforcement. Among other changes, DOB:
+DOB has launched significant improvements to its Façade Inspection Safety Program. Some of these changes are:
 
 
-* Established a new system to track all Local Law 11 inspection reports;
-* Required that any building that fails to timely file an inspection report will have 180 days to submit the report -- if the landlord fails to do so, the City will conduct an inspection and, if needed, place safety sheds at the location at the landlord’s expense; and
-* Mandated that any building that files a report indicating there are dangerous conditions will be given 180 days to correct these conditions. Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place safety sheds at the location at the landlord’s expense.
+* Established a new system to track all Local Law 11/98 inspection reports (DOB NOW Safety);
+* Proactive inspections on all FISP compliance filings including SAFE and SWARMP submissions;
+* Any building that fails to timely file a compliance inspection report (NR), the Department will conduct an inspection and, if needed, place public protection at the location at the owner’s expense; and
+* Mandated that any building that files a report indicating there are unsafe conditions will be given 90 days to correct these conditions.  The owner must install public protection as soon as an unsafe condition is discovered.  Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place public protection at the location at the landlord’s expense.
 
 
 ### HOW IS DOB HELPING CUSTOMERS MEET THEIR FAÇADE COMPLIANCE FILING REQUIREMENTS?
@@ -90,11 +96,11 @@ Following the May 2015 façade failure, DOB implemented changes to its own proce
 *New Electronic Filing Requirement for NYC façade Inspection Safety Program:*  Beginning September 2016, the New York City Department of Buildings required building owners, managers, and design professionals to use the new online portal **DOB NOW: Safety** to:
 
 
-* Submit façade compliance filings and report unsafe façade activity
-* Make payments
-* View and search information related to your façade filings
-* Upload documents
-* View the status of a façade filing
+* Submit façade compliance filings including uploading documents
+* Report unsafe façade conditions
+* Make filing fee payment 
+* View the status of a façade compliance filing
+* View and search information related to façade filings and conditions
 * Receive emails at milestones throughout the filing process
 
 
