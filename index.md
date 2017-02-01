@@ -50,11 +50,6 @@ The following map provides the location and other information on the filing stat
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Facade_Filings" frameborder="0"> </iframe>
 
-#### UNSAFE FAÇADE CLUSTER AT NYCHA AMSTERDAM HOUSES
-
-Multiple seven-story buildings within the Amsterdam Houses on Amsterdam Avenue between 61st and 64th Streets in Manhattan were categorized as "Unsafe" in Cycle 7. 
-
-<br/><img align="left" src="https://raw.githubusercontent.com/NYCDOB/Facades/gh-pages/images/Cycle7_NYCHA_Amsterdam.jpg">
 
 #### CYCLE 7 FISP CLASSIFICATIONS BY BOROUGH
 <iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"> </iframe>
@@ -68,7 +63,7 @@ DOB FISP Violations are issued for the following: *Failure to File a Façade Tec
 
 <br/>The density of buildings greater than six stories in height is also reflected in ECB violation issuance by DOB Façade Unit. 
 
-#### Facade Violations by Borough - 2010 to 2016
+#### Facade Violations by Borough (2010 to 2016)
 
 |    Borough    | # Violations | % Violations |
 |:-------------:|:------------:|:------------:|
@@ -80,7 +75,7 @@ DOB FISP Violations are issued for the following: *Failure to File a Façade Tec
 
 ### WHAT RECENT ENFORCEMENT ACTIONS HAVE BEEN IMPLEMENTED?
 
-DOB has launched significant improvements to its Façade Inspection Safety Program. Some of these changes are:
+DOB has launched significant improvements to its Façade Inspection Safety Program. Some of these changes include the following:
 
 
 * Established a new system to track all Local Law 11/98 inspection reports (DOB NOW Safety);
