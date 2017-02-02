@@ -55,6 +55,13 @@ The following map provides the location and other information on the filing stat
 <iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"></iframe>
 
 
+#### SIDEWALK SHEDS 
+
+New York City began to require sidewalk sheds in the 1899 building code, as a safety measure for protecting the public from construction debris hazards. With the introduction of Local Law 10 in 1980, sidewalk sheds were required as a safety measure for addressing façade failures on buildings situated along pedestrian rights of way. Today sidewalk sheds play an important role in maintaining public safety during construction. 
+
+<iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2007" frameborder="0"> </iframe>
+
+
 #### FAÇADE VIOLATIONS
 
 DOB FISP Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* and *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
