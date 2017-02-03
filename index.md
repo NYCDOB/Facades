@@ -57,7 +57,7 @@ The following map provides the location and other information on the filing stat
 
 #### SIDEWALK SHEDS 
 
-New York City began to require sidewalk sheds in the 1899 building code, as a safety measure for protecting the public from construction debris hazards. With the introduction of Local Law 10 in 1980, sidewalk sheds were required as a safety measure for addressing façade failures on buildings situated along pedestrian rights of way. Today sidewalk sheds play an important role in maintaining public safety during construction. 
+Sidewalk sheds are required as a measure of protection from construction debris hazards.  As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan. Distressed facades also require a sidewalk shed situated along pedestrian rights of way. The map below shows the location of sidewalk sheds associated with an Unsafe Cycle 7 façade filing, which accounts for approximately 12% of the total sheds. The current universe of sidewalk sheds is also parsed out by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a New Building or ALT1 permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured. 
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
 
