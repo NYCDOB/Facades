@@ -64,6 +64,9 @@ Many of the façades which were filed as Unsafe in Cycle 7 are currently associa
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
 
+The following methodology was used to determine construction-related activity associated with a sidwalk shed:  
+
+* Initial sidewalk shed permits that were issued no more than two years after the most recent NB, ALT1, or Demo permit (initial or renewal) at the same building 
 
 #### FAÇADE VIOLATIONS
 
