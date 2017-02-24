@@ -57,10 +57,9 @@ The following map provides the location and other information on the filing stat
 
 #### SIDEWALK SHEDS 
 
-Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. 
+Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan. 
 
-<br/>As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan.  
-The current universe of sidewalk sheds is also parsed out by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
+<br/>The current universe of sidewalk sheds is also parsed out by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
