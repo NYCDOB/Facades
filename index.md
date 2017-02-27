@@ -17,7 +17,7 @@ In order to ensure the safety and structural stability of New York City building
 * Safe With a Repair and Maintenance Program (SWARP)
 * Unsafe: Problems/defects threaten public safety (UN)
 
-The following categories of inspection were discontinued in Cycle 4 and are no longer used:
+The following categories of inspection were discontinued after Cycle 4 and are no longer used:
 
 * Ongoing Maintenance (OM)
 * Precautionary (PR)
