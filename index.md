@@ -7,7 +7,7 @@ image:
   credit: 
   creditlink: 
 ---
-In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11/98 which requires inspections of building exterior walls and appurtenances of buildings which are greater than six stories in height. General information on façades as well as detailed instructions on façade compliance filings are available on the DOB Façades [website](https://www1.nyc.gov/site/buildings/safety/facades.page). 
+In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11 of 1998 which requires inspections of building exterior walls and appurtenances of buildings which are greater than six stories in height. General information on façades as well as detailed instructions on façade compliance filings are available on the DOB Façades [website](https://www1.nyc.gov/site/buildings/safety/facades.page). 
 
 <br/>To accomodate the owners of the more than 14,000 buildings who must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report, the inspection process is broken down into five-year cycles.  Cycle 7 was the last full cycle completed, ending in 2014. DOB is currently in Cycle 8 which began in 2015.
 
@@ -55,11 +55,11 @@ The following map provides the location and other information on the filing stat
 <iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"></iframe>
 
 
-#### HOW DO SIDEWALK SHED RELATE TO FAÇADES?
+#### HOW DO SIDEWALK SHEDS RELATE TO FAÇADES?
 
 Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan. 
 
-<br/>The quantity of sidewalk sheds is also driven by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
+<br/>The quantity of sidewalk sheds is also driven by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age in days is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
@@ -115,7 +115,7 @@ DOB has launched significant improvements to its Façade Inspection Safety Progr
 ### HOW WILL DOB IMPROVE FAÇADE SAFETY MONITORING?
 
 #### GEOGRAPHIC INFORMATION SYSTEMS
-DOB is currently using GIS tools that allow users to create interactive queries and analyze spatial information from maps. Using GIS, DOB inspection staff can aggregate various datasets, historic maps, and field reports. The results can be used to develop risk profiles for specific buildings and identify mitigation strategies. DOB will also be able to publish web-based GIS maps which can be viewed by other agencies and the general public.
+DOB is currently using GIS tools that allow users to create interactive queries and analyze spatial information from maps. Using GIS, DOB inspection staff can aggregate various datasets, historic maps, and field reports. The results can be used to develop risk profiles for specific buildings and identify mitigation strategies. 
 
 <br/><img align="left" src="https://raw.githubusercontent.com/NYCDOB/Facades/gh-pages/images/Facades_Tool.png">
 
