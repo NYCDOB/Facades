@@ -9,12 +9,12 @@ image:
 ---
 In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11/98 which requires inspections of building exterior walls and appurtenances of buildings which are greater than six stories in height. General information on façades as well as detailed instructions on façade compliance filings are available on the DOB Façades [website](https://www1.nyc.gov/site/buildings/safety/facades.page). 
 
-<br/>To facilitate the owners of the more than 14,000 buildings who must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report, the inspection process is broken down into five-year “cycles”.  Cycle 7 was the last full cycle completed, ending in 2014.  DOB is currently in Cycle 8 which began in 2015.
+<br/>To accomodate the owners of the more than 14,000 buildings who must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report, the inspection process is broken down into five-year cycles.  Cycle 7 was the last full cycle completed, ending in 2014. DOB is currently in Cycle 8 which began in 2015.
 
-<br/>Inspections are conducted by private qualified registered design professionals who are not DOB employees. The Qualified Exterior Wall Inspector (QEWI) inspects the properties and assigns the following categories
+<br/>Inspections are conducted by private qualified registered design professionals who are not DOB employees. The Qualified Exterior Wall Inspector (QEWI) inspects the properties and assigns the following categories:
 
 * Safe: No problems and in good condition (OK)
-* Safe With a Repair and Maintenance Program (SWARP)
+* Safe With a Repair and Maintenance Program (SWARMP)
 * Unsafe: Problems/defects threaten public safety (UN)
 
 The following categories of inspection were discontinued after Cycle 4 and are no longer used:
@@ -27,7 +27,7 @@ DOB categorizes a property as No Report Filed (NR) if no report was submitted.
 
 #### FAÇADE INSPECTION RESULTS
 
-Approximately 87% of the Cycle 7 façade filings were classified as either “Safe” (OK) or “Safe with a Repair and Maintenance Program” (SWARP). Cycle 7 had a 5% increase in the number of total records compared to Cycle 6. Unsafe filings are carefully monitored by DOB. Cycle 8 is currently in progress, therefore there is a large percentage of “No Report Filed” classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
+Approximately 87% of the Cycle 7 façade filings were classified as either *Safe* (OK) or *Safe with a Repair and Maintenance Program* (SWARMP). Cycle 7 had a 5% increase in the number of total records compared to Cycle 6. Cycle 8 is currently in progress, therefore there is a large percentage of *No Report Filed* classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
@@ -55,11 +55,11 @@ The following map provides the location and other information on the filing stat
 <iframe width="100%" height="500" src="https://nycdob.github.io/Performance_Dashboard/examples/Facades_Borough" frameborder="0"></iframe>
 
 
-#### SIDEWALK SHEDS 
+#### HOW DO SIDEWALK SHED RELATE TO FAÇADES?
 
 Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan. 
 
-<br/>The current universe of sidewalk sheds is also parsed out by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
+<br/>The quantity of sidewalk sheds is also driven by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
 
 <iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
@@ -93,7 +93,7 @@ DOB has launched significant improvements to its Façade Inspection Safety Progr
 
 * Established a new system to track all Local Law 11/98 inspection reports (DOB NOW Safety);
 * Proactive inspections on all FISP compliance filings including SAFE and SWARMP submissions;
-* Any building that fails to timely file a compliance inspection report (NR), the Department will conduct an inspection and, if needed, place public protection at the location at the owner’s expense; and
+* Any building that fails to file a timely compliance inspection report (NR), the Department will conduct an inspection and, if needed, place public protection at the location at the owner’s expense; and
 * Mandated that any building that files a report indicating there are unsafe conditions will be given 90 days to correct these conditions.  The owner must install public protection as soon as an unsafe condition is discovered.  Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place public protection at the location at the landlord’s expense.
 
 
