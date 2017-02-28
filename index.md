@@ -9,9 +9,9 @@ image:
 ---
 In order to ensure the safety and structural stability of New York City buildings, owners must comply with Local Law 11 of 1998 which requires inspections of building exterior walls and appurtenances of buildings which are greater than six stories in height. General information on façades as well as detailed instructions on façade compliance filings are available on the DOB Façades [website](https://www1.nyc.gov/site/buildings/safety/facades.page). 
 
-<br/>To accomodate the owners of the more than 14,000 buildings who must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report, the inspection process is broken down into five-year cycles.  Cycle 7 was the last full cycle completed, ending in 2014. DOB is currently in Cycle 8 which began in 2015.
+<br/>Owners of more than 14,000 buildings must submit a [Façade Inspection Safety Program](https://www1.nyc.gov/site/buildings/safety/facade-inspection-safety-program-fisp-filing-instructions.page) (FISP) compliance report in five-year cycles.  Cycle 7 was the last full cycle completed, ending in 2014. DOB is currently in Cycle 8 which began in 2015.
 
-<br/>Inspections are conducted by private qualified registered design professionals who are not DOB employees. The Qualified Exterior Wall Inspector (QEWI) inspects the properties and assigns the following categories:
+<br/>Inspections are conducted by private qualified registered design professionals who are not DOB employees. The Qualified Exterior Wall Inspector (QEWI) inspects the building façade and assigns the following categories:
 
 * Safe: No problems and in good condition (OK)
 * Safe With a Repair and Maintenance Program (SWARMP)
@@ -44,7 +44,7 @@ Approximately 87% of the Cycle 7 façade filings were classified as either *Safe
 
 ### WHERE ARE THE SAFE AND UNSAFE FAÇADES IN NYC?
 
-> #### *The 60% of buildings greater than six stories in height are located in Manhattan and therefore most of the façade filings are in Manhattan* 
+> #### *60% of buildings greater than six stories in height are located in Manhattan and therefore most of the façade filings are in Manhattan* 
 
 The following map provides the location and other information on the filing status of each eligible façade during Cycle 7.
 
@@ -57,7 +57,7 @@ The following map provides the location and other information on the filing stat
 
 #### HOW DO SIDEWALK SHEDS RELATE TO FAÇADES?
 
-Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 active shed permits city-wide, half of which are in Manhattan. 
+Many of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 total active shed permits city-wide, half of which are in Manhattan. 
 
 <br/>The quantity of sidewalk sheds is also driven by construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age in days is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
@@ -78,7 +78,7 @@ DOB FISP Violations are issued for the following: *Failure to File a Façade Tec
 
 #### Facade Violations by Borough (2010 to 2016)
 
-|    Borough    | # Violations | % Violations |
+|    Borough    | # Violations | % Violations Citywide |
 |:-------------:|:------------:|:------------:|
 |   Manhattan   |     2812     |     51.3%    |
 |     Bronx     |     1119     |     20.4%    |
@@ -93,7 +93,7 @@ DOB has launched significant improvements to its Façade Inspection Safety Progr
 
 * Established a new system to track all Local Law 11/98 inspection reports (DOB NOW Safety);
 * Proactive inspections on all FISP compliance filings including SAFE and SWARMP submissions;
-* Any building that fails to file a timely compliance inspection report (NR), the Department will conduct an inspection and, if needed, place public protection at the location at the owner’s expense; and
+* The Department may conduct an inspection of any building that fails to file a timely compliance inspection report (NR), and, if needed, place puplic protection at the location at the owner’s expense; and
 * Mandated that any building that files a report indicating there are unsafe conditions will be given 90 days to correct these conditions.  The owner must install public protection as soon as an unsafe condition is discovered.  Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place public protection at the location at the landlord’s expense.
 
 
