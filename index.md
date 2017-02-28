@@ -17,7 +17,7 @@ In order to ensure the safety and structural stability of New York City building
 * Safe With a Repair and Maintenance Program (SWARMP)
 * Unsafe: Problems/defects threaten public safety (UN)
 
-The following categories of inspection were discontinued after Cycle 4 and are no longer used:
+Unsafe façades require an immediate corrective action such as a sidewalk shed. Façades designated as SWARMP require repairs within two years in order to prevent a potential unsafe condition. The following categories of inspection were discontinued after Cycle 4 and are no longer used:
 
 * Ongoing Maintenance (OM)
 * Precautionary (PR)
@@ -27,7 +27,7 @@ DOB categorizes a property as No Report Filed (NR) if no report was submitted.
 
 #### FAÇADE INSPECTION RESULTS
 
-Approximately 87% of the Cycle 7 façade filings were classified as either *Safe* (OK) or *Safe with a Repair and Maintenance Program* (SWARMP). Cycle 7 had a 5% increase in the number of total records compared to Cycle 6. Cycle 8 is currently in progress, therefore there is a large percentage of *No Report Filed* classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
+Approximately 87% of the Cycle 7 façade filings were classified as either *Safe* (OK) or *Safe with a Repair and Maintenance Program* (SWARMP). From Cycle 6 to Cycle 7, there was a 5% net increase in the number of buildings required to file. Cycle 8 is currently in progress, therefore there is a large percentage of *No Report Filed* classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
 
 <iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
 
