@@ -17,7 +17,7 @@ In order to ensure the safety and structural stability of New York City building
 * Safe With a Repair and Maintenance Program (SWARMP)
 * Unsafe: Problems/defects threaten public safety (UN)
 
-Unsafe façades require an immediate corrective action such as a sidewalk shed. Façades designated as SWARMP require repairs within two years in order to prevent a potential unsafe condition. The following categories of inspection were discontinued after Cycle 4 and are no longer used:
+Unsafe façades require public protection such as a sidewalk shed. Façades designated as SWARMP require repairs within one to five years in order to prevent a potential unsafe condition. The following categories of inspection were discontinued after Cycle 4 and are no longer used:
 
 * Ongoing Maintenance (OM)
 * Precautionary (PR)
