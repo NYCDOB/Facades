@@ -57,7 +57,7 @@ The following map provides the location and other information on the filing stat
 
 #### HOW DO SIDEWALK SHEDS RELATE TO FAÇADES?
 
-Most of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection from construction debris hazards. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 total active shed permits city-wide, half of which are in Manhattan. 
+Most of the façades which were filed as Unsafe in Cycle 7 are currently associated with a sidewalk shed as a measure of protection. The map below shows the locations of these sidewalk sheds, which accounts for approximately 12% of the total sheds. As of Feb 1, 2017, there were approximately 7,500 total active shed permits city-wide, half of which are in Manhattan. 
 
 <br/>In addition to sidewalk sheds required for Unsafe facades, the majority of sheds are associated with construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age in days is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
@@ -70,11 +70,14 @@ The following methodology was used to determine construction-related activity as
 
 #### FAÇADE VIOLATIONS
 
-DOB FISP Violations are issued for the following: *Failure to File a Façade Technical Report (NRF)* and *Failure to File an Amended Façade Technical Report*. The issuance of these violations has increased over the last two years as a result of owners not submitting the LL 11/98 technical report for their FISP cycle.
+Violations are issued to owners who are no in compliance. Some of the violations issued by the FISP unit include:
 
-<br/>The majority of ECB/OATH Violations issued by the DOB Façade Unit are for *Failure to Maintain Buildings Walls* and *Failure To Protect the Public*. 
 
-<br/>The density of buildings greater than six stories in height is also reflected in ECB violation issuance by DOB Façade Unit. 
+* Failure to File a Façade Technical Report
+* Failure to File and Amended Façade Technical Report
+* Failure to Maintain Building Walls
+* Failure to Protect the Public
+
 
 #### Facade Violations by Borough (2010 to 2016)
 
@@ -93,7 +96,7 @@ DOB has launched significant improvements to its Façade Inspection Safety Progr
 
 * Established a new system to track all Local Law 11/98 inspection reports (DOB NOW Safety);
 * Proactive inspections on all FISP compliance filings including SAFE and SWARMP submissions;
-* The Department may conduct an inspection of any building that fails to file a timely compliance inspection report (NR), and, if needed, place puplic protection at the location at the owner’s expense; and
+* The Department may conduct an inspection of any building that fails to file a timely compliance inspection report (NR), and, if needed, place public protection at the location at the owner’s expense; and
 * Mandated that any building that files a report indicating there are unsafe conditions will be given 90 days to correct these conditions.  The owner must install public protection as soon as an unsafe condition is discovered.  Again, if the landlord fails to do so, the City will conduct an inspection and, if needed, place public protection at the location at the landlord’s expense.
 
 
