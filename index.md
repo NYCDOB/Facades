@@ -70,7 +70,7 @@ The following methodology was used to determine construction-related activity as
 
 #### FAÇADE VIOLATIONS
 
-Violations are issued to owners who are no in compliance. Some of the violations issued by the FISP unit include:
+Violations are issued to owners who are not in compliance. Some of the violations issued by the FISP unit include:
 
 
 * Failure to File a Façade Technical Report
