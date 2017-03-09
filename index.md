@@ -62,7 +62,7 @@ Most of the façades which were filed as Unsafe in Cycle 7 are currently associa
 <br/>In addition to sidewalk sheds required for Unsafe facades, the majority of sheds are associated with construction-related activity and maintenance. Approximately 25% of total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age in days is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
 
-<iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017" frameborder="0"> </iframe>
+<iframe width="100%" height="500" src="https://nycdob.github.io/Maps/Sidewalk_Sheds_Feb2017_2" frameborder="0"> </iframe>
 
 The following methodology was used to determine construction-related activity associated with a sidewalk shed:  
 
