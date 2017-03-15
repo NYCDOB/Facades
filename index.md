@@ -29,15 +29,15 @@ DOB categorizes a property as No Report Filed (NR) if no report was submitted.
 
 Approximately 87% of the Cycle 7 façade filings were classified as either *Safe* (OK) or *Safe with a Repair and Maintenance Program* (SWARMP). From Cycle 6 to Cycle 7, there was a 5% net increase in the number of buildings required to file. Cycle 8 is currently in progress, therefore there is a large percentage of *No Report Filed* classifications. The NR category will not be comparable for this group until the filing period ends in 2020.   
 
-<iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings3" frameborder="0" align="left"> </iframe>
+<iframe width="100%" height="400" src="https://nycdob.github.io/Performance_Dashboard/examples/Facade_Filings4" frameborder="0" align="left"> </iframe>
 
 
 | Status |  4  |  5  |  6  |  7  |  8  |
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|   OK   | 24% | 47% | 54% | 49% |  10% |
-|   SWARP   |  4% | 52% | 43% | 38% |  6% |
-|   NR   |  1% |  0% |  1% |  5% | 80% |
-|   UN   |  0% |  1% |  2% |  8% |  4% |
+|   OK   | 24% | 47% | 51% | 49% |  10% |
+|   SWARMP   |  4% | 52% | 41% | 38% |  7% |
+|   NR   |  1% |  0% |  5% |  7% | 76% |
+|   UN   |  0% |  1% |  2% |  7% |  6% |
 |   OM   | 26% |     |     |     |     |
 |   PR   | 45% |     |     |     |     |
 
