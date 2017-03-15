@@ -68,6 +68,8 @@ The following methodology was used to determine construction-related activity as
 
 * Initial sidewalk shed permits that were issued no more than two years after the most recent NB, ALT1, or Demo permit (initial or renewal) at the same building 
 
+The data above reflect active DOB sidewalk shed permits. However, there may be unpermitted sidewalk sheds in the city – just as construction work is sometimes performed without a permit. In cases of illegal, unpermitted sheds or construction work, DOB takes enforcement actions, including violations and stop-work orders, as warranted.
+
 #### FAÇADE VIOLATIONS
 
 Violations are issued to owners who are not in compliance. Some of the violations issued by the FISP unit include:
