@@ -57,7 +57,7 @@ The following map provides the location and other information on the filing stat
 
 #### HOW DO SIDEWALK SHEDS RELATE TO FAÇADES?
 
-As of May 1, 2017, there were approximately 7,700 total active sidewalk shed permits city-wide, half of which are in Manhattan. Most of the façades which were filed as Unsafe or SWARMP in Cycle 7 are currently associated with a sidewalk shed as a measure of protection. The map below shows the locations of these sidewalk sheds, which accounts for approximately 23% of the total sheds. 
+As of May 1, 2017, there were approximately 7,800 total active sidewalk shed permits city-wide, half of which are in Manhattan. Most of the façades which were filed as Unsafe or SWARMP in Cycle 7 are currently associated with a sidewalk shed as a measure of protection. The map below shows the locations of these sidewalk sheds, which accounts for approximately 23% of the total sheds. 
 
 <br/>In addition to sidewalk sheds required for Unsafe facades, the majority of sheds are associated with construction-related activity and maintenance. Approximately 25% of the total sidewalk sheds are associated with a large-scale construction project which requires a new building, major alteration (ALT1), or demolition permit. In some cases, these permits are continually renewed at the same site. The current permit age in days is captured in the age tab below, with the larger and darker circles showing the location of older sheds. The size of the sidewalk shed in linear feet is also captured.
 
